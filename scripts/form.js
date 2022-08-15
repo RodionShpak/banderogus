@@ -19,7 +19,7 @@ const closeFormModal = () => {
 const closeSuccessModal = () => {
     successModal.classList.remove(MODAL_ACTIVE_CLASS_NAME);
 };
-
+// 
 const openSuccessModal = () => {
     successModal.classList.add(MODAL_ACTIVE_CLASS_NAME);
 };
